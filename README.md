@@ -3,3 +3,5 @@ Repositório criado para o Desafio de Projeto.
 
 ## Links Úteis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+[Download do Git](https://git-scm.com/downloads)
+[DIO](https://www.dio.me/)
